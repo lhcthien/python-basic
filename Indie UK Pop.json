@@ -1,0 +1,43 @@
+{
+  "question": [
+    "Q1. What is this song 1?",
+    "Q2. What is this song 2?",
+    "Q3. What is this song 3?",
+    "Q4. What is this song 4?"
+  ],
+  "answer": [
+    3,
+    2,
+    4,
+    1
+  ],
+  "options": [
+
+    ["San Cisco - Fred Astaire",
+      "Arctic Monkeys - One For The Road",
+      "Baby Queen - Dover Beach",
+      "Coldplay - Magic"
+    ],
+    ["HAIM - Don't Save Me",
+      "Shura - What's It Gonna Be",
+      "Capital Cities - Kangaroo Court",
+      "Daft Punk - Instant Crush ft. Julian Casablancas"
+    ],
+    ["Empire Of The Sun - DNA",
+      "Passenger - Wrong Direction",
+      "Faul, Wad Ad, Pnau - Changes",
+      "The Verve - Bitter Sweet Symphony"
+    ],
+    ["Chairlift - I Belong In Your Arms",
+      "Two Door Cinema Club - Changing of the Seasons",
+      "The Neighbourhood - Sweater Weather",
+      "Breakbot - Baby I'm Yours ft. Irfane"
+    ]
+  ],
+  "song": [
+    "Baby Queen - Dover Beach.mp3",
+    "Shura - What's It Gonna Be.mp3",
+    "The Verve - Bitter Sweet Symphony.mp3",
+    "Chairlift - I Belong In Your Arms.mp3"
+  ]
+}

@@ -7,13 +7,13 @@
   ],
   "answer": [
     1,
-    2,
     3,
-    2
+    3,
+    4
   ],
   "options": [
 
-    ["Luis Fonsi – Despacito ft. Daddy Yankee",
+    ["Taylor Swift - Look What You Make Me Do",
       "Ed Sheeran – Shape of You",
       "Wiz Khalifa – See You Again ft. Charlie Puth",
       "Mark Ronson – Uptown Funk ft. Bruno Mars"
@@ -26,18 +26,18 @@
     ["Katy Perry – Roar",
       "OneRepublic – Counting Stars",
       "Bohemian Rhapsody - Queen",
-      "Stairway to Heaven - Led Zeppelin"
+      "Comfortably Numb - Pink Floyd"
     ],
     ["Imagine - John Lennon",
       "Smells Like Teen Spirit - Nirvana",
       "One - Metallica",
-      "Comfortably Numb - Pink Floyd"
+      "Mark Ronson – Uptown Funk ft. Bruno Mars"
     ]
   ],
   "song": [
     "Look What You Make Me Do.mp3",
-    "Card Captor Sakura OST - -Kibou No Yokan.mp3",
-    "DIVA PROJECT-Mermaid.mp3",
-    "Sohyang - Only heart knows.mp3"
+    "Maroon 5 - Sugar.mp3",
+    "Queen – Bohemian Rhapsody.mp3",
+    "Mark Ronson - Uptown Funk ft. Bruno Mars.mp3"
   ]
 }

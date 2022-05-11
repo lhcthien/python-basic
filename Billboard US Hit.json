@@ -1,0 +1,43 @@
+{
+  "question": [
+    "Q1. What is this song 1?",
+    "Q2. What is this song 2?",
+    "Q3. What is this song 3?",
+    "Q4. What is this song 4?"
+  ],
+  "answer": [
+    1,
+    3,
+    3,
+    4
+  ],
+  "options": [
+
+    ["Taylor Swift - Look What You Make Me Do",
+      "Ed Sheeran – Shape of You",
+      "Wiz Khalifa – See You Again ft. Charlie Puth",
+      "Mark Ronson – Uptown Funk ft. Bruno Mars"
+    ],
+    ["PSY – Gangnam Style",
+      "El Chombo – Dame Tu Cosita feat. Cutty Ranks",
+      "Maroon 5 – Sugar",
+      "Justin Bieber – Sorry"
+    ],
+    ["Katy Perry – Roar",
+      "OneRepublic – Counting Stars",
+      "Bohemian Rhapsody - Queen",
+      "Comfortably Numb - Pink Floyd"
+    ],
+    ["Imagine - John Lennon",
+      "Smells Like Teen Spirit - Nirvana",
+      "One - Metallica",
+      "Mark Ronson – Uptown Funk ft. Bruno Mars"
+    ]
+  ],
+  "song": [
+    "Look What You Make Me Do.mp3",
+    "Maroon 5 - Sugar.mp3",
+    "Queen – Bohemian Rhapsody.mp3",
+    "Mark Ronson - Uptown Funk ft. Bruno Mars.mp3"
+  ]
+}

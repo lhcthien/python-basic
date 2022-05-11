@@ -1,8 +1,1 @@
-{
-  "song": [
-    "Look What You Make Me Do.mp3",
-    "Card Captor Sakura OST - -Kibou No Yokan.mp3",
-    "DIVA PROJECT-Mermaid(인어공주).mp3",
-    "소향 -가슴만 알죠.mp3"
-  ]
-}
+{"correct": ["Correct: 4", "Correct: 4", "Correct: 4"], "wrong": ["Wrong: 0", "Wrong: 0", "Wrong: 0"], "result": ["Score: 100%", "Score: 100%", "Score: 100%"], "player": ["Thien", "Test", "Auto"], "mixtape": ["Billboard US Hit", "Indie UK Pop", "Vpop"]}
